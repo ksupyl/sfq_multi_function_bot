@@ -1,0 +1,1 @@
+worker: python sfq_multi_function_bot.py
